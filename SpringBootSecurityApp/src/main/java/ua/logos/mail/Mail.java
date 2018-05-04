@@ -17,7 +17,7 @@ public class Mail {
 	private String content;
 
 	public Mail() {
-		this.from = "test.mail.5180@gmail.com";
+		this.from = "test.mail.symeon@gmail.com";
 	}
 	
 	
